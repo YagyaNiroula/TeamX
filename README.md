@@ -7,7 +7,7 @@ Mock Credential
 
 Demo User
 
-Email:demo@example.com
+Email: demo@example.com
 
-Password:demo123
+Password: demo123
 
